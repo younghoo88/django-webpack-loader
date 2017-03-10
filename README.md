@@ -213,7 +213,7 @@ INSTALLED_APPS = (
     ....
     {% render_bundle 'main' 'js' %}
   </body>
-</head>
+</html>
 ```
 
 <br>
